@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ITCS v2.0</string>
+    <string name="action_settings">Settings</string>
+    <string name="setip">Set IP</string>
+    <string name="Home">Home</string>
+    <string name="RED">RED</string>
+    <string name="BACK">BACK</string>
+    <string name="BLUE">BLUE</string>
+    <string name="off">OFF</string>
+    <string name="Current_speed">Current speed</string>
+    <string name="GO">GO</string>
+    <string name="GREEN">GREEN</string>
+    <string name="STOP">STOP</string>
+    <string name="Switches">Switches</string>
+    <string name="toggle">toggle</string>
+    <string name="action_setip">Set IP</string>
+    <string name="action_exit">Exit</string>
+    <string name="train_control">Trains</string>
+
+</resources>
